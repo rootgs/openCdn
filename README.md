@@ -1,6 +1,6 @@
 # OpenCDN
 
-OpenCDN 是一个基于 Ant Design Pro 和 Laravel 的系统，旨在为用户提供自建、自用或商用的 CDN（内容分发网络）系统。该系统具备防御 CC 攻击、WAF（Web 应用防火墙）、5S 盾等功能，并支持多租户管理等高级功能。
+OpenCDN 是一个基于 element-vue-admin 和 Laravel 的系统，旨在为用户提供自建、自用或商用的 CDN（内容分发网络）系统。该系统具备防御 CC 攻击、WAF（Web 应用防火墙）、5S 盾等功能，并支持多租户管理等高级功能。
 
 特性
 CC 攻击防御: 通过智能的流量分析和限制，防止恶意的 CC 攻击。
@@ -24,4 +24,4 @@ Telegram: @open_cdn_group
 复制代码
 > git clone https://github.com/rootgs/opencdn.git
 
-> bash ./install
+> bash ./install.sh
